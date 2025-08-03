@@ -9,8 +9,9 @@
 
 * How to Run
 1) Clone the repository:
-git clone https://github.com/ramyashastri/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
-
-2) Open index.html in your browser:
+2) ```bash
+   git clone https://github.com/your-username/Tic-Tac-Toe.git
+   cd Tic-Tac-Toe
+   ```
+3) Open index.html in your browser:
 Double-click index.html
